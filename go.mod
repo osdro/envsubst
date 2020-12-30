@@ -1,4 +1,4 @@
-module github.com/drone/envsubst
+module github.com/osdro/envsubst
 
 require github.com/google/go-cmp v0.2.0
 

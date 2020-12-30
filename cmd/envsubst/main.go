@@ -6,7 +6,7 @@ import (
 	"log"
 	"fmt"
 
-	"github.com/drone/envsubst"
+	"github.com/osdro/envsubst"
 )
 
 func main() {
